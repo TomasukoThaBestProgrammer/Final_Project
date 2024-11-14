@@ -1,2 +1,3 @@
-# Final_Project
-It's my final project working on Python code
+#Final_Project
+## Ecco l'idea per il mio progetto:
+> 
